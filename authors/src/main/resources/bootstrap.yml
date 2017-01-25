@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: authors-service
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://sboot_usr:1234@ds033986.mlab.com:33986/heroku_f9wknxrf
